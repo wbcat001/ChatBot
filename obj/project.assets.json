@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work_Program\\ChatBot\\ChatBot.csproj",
+      "projectUniqueName": "C:\\Users\\acero\\Work_Program\\ChatBot\\ChatBot.csproj",
       "projectName": "ChatBot",
-      "projectPath": "D:\\Work_Program\\ChatBot\\ChatBot.csproj",
+      "projectPath": "C:\\Users\\acero\\Work_Program\\ChatBot\\ChatBot.csproj",
       "packagesPath": "C:\\Users\\acero\\.nuget\\packages\\",
-      "outputPath": "D:\\Work_Program\\ChatBot\\obj\\",
+      "outputPath": "C:\\Users\\acero\\Work_Program\\ChatBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
