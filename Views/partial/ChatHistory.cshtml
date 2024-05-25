@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<ReceiveMessage>
+
+<ul class="m-b-0 chat-list">
+    <li class="clearfix">
+        <div class="message-data text-right">
+            <span class="message-data-time">10:10 AM, Today</span>
+            <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="avatar">
+        </div>
+        <div class="message other-message float-right"> Hi Aiden, how are you? How is the project coming along? </div>
+    </li>
+
+    @foreach (var m in Model)
+    {
+        <li class="clearfix">
+
+            <div class="message other-message float-right"> @m.Message</div>
+        </li>
+    }
+
+</ul>

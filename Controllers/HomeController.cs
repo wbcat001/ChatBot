@@ -1,7 +1,9 @@
 using ChatBot.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-
+using static System.Environment;
+using OpenAI_API;
+using OpenAI_API.Chat;
 namespace ChatBot.Controllers
 {
 
@@ -10,8 +12,11 @@ namespace ChatBot.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        static string? _apiKey = "";
 
         private static List<ReceiveMessage> _messages = new List<ReceiveMessage>()
+
+
         {
             new ReceiveMessage(){Message="sample"}
         }
@@ -29,24 +34,58 @@ namespace ChatBot.Controllers
 
 
         [HttpPost]
-        public async Task<IActionResult> Send(string message)
+        public async Task<IActionResult> Send([FromBody] ReceiveMessage receiveMessage)
         {
-            Debug.WriteLine("post");
-            ReceiveMessage msg = new ReceiveMessage { Message = message };
-            _messages.Add(msg);
-            _messages.Add(msg);
+            
+            
+            
+            _messages.Add(receiveMessage);
 
             ReplyMessage replyMessage = new ReplyMessage
             {
-                Message = $"{msg.Message}",
-                SendMessage = new string[] { msg.Message },
+                Message = $"{receiveMessage.Message}",
+                SendMessage = new string[] { receiveMessage.Message },
             };
 
-            Debug.WriteLine(replyMessage.Message);
+            Task<string> task = GetReply(receiveMessage.Message);
+            string reply = await task;
+            Debug.WriteLine(reply);
             //Thread.Sleep(500);
-        
 
-            return RedirectToAction("Index");
+
+            foreach (var m in _messages)
+            {
+                Debug.WriteLine(m.Message);
+            }
+
+
+            return PartialView("~/Views/partial/ChatHistory.cshtml", _messages);
+        }
+
+        static async Task<string> GetReply(string text)
+        {
+            //string? apiKey = GetEnvironmentVariable("OPEN_API_KEY");
+            string? apiKey = null;
+            Debug.WriteLine(apiKey);
+            string? result = "this is default reply.";
+            if (apiKey != null)
+            {
+                OpenAIAPI api = new(apiKey);
+
+                Conversation chat = api.Chat.CreateConversation();
+
+                string? prompt = text;
+
+                chat.AppendUserInput(prompt);
+                result = await chat.GetResponseFromChatbotAsync();
+                await Console.Out.WriteLineAsync((result.Trim()));
+
+
+            }
+          
+
+
+            return result;
         }
 
 

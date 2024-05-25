@@ -87,13 +87,19 @@
             contentType: 'application/json',
             data: JSON.stringify({ Message: message }),
 
-            success: function (response) {
-                console.log(response);
-            }
-            error: function (response) {
-                console.log(response);
-            }
-        });
+
+        }).done(function (response) {
+            // console.log(response);
+            // add chat history
+            $('.chat-history').html(response);
+            
+        })
+            .fail(function (xhr) {
+                console.log(xhr);
+            })
+            .always(function (xhr, msg) {
+                console.log(xhr, msg);
+            });
 
       
 

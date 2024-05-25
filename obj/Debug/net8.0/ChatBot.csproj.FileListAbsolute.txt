@@ -61,3 +61,9 @@ C:\Users\acero\Work_Program\ChatBot\obj\Debug\net8.0\refint\ChatBot.dll
 C:\Users\acero\Work_Program\ChatBot\obj\Debug\net8.0\ChatBot.pdb
 C:\Users\acero\Work_Program\ChatBot\obj\Debug\net8.0\ChatBot.genruntimeconfig.cache
 C:\Users\acero\Work_Program\ChatBot\obj\Debug\net8.0\ref\ChatBot.dll
+C:\Users\acero\Work_Program\ChatBot\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acero\Work_Program\ChatBot\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\acero\Work_Program\ChatBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\acero\Work_Program\ChatBot\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\acero\Work_Program\ChatBot\obj\Debug\net8.0\ChatBot.csproj.AssemblyReference.cache
+C:\Users\acero\Work_Program\ChatBot\obj\Debug\net8.0\ChatBot.csproj.Up2Date
