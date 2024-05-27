@@ -3,7 +3,7 @@
     ViewData["Title"] = "Home Page";
 }
 
-@model List<ReceiveMessage>
+@model List<Message>
 
 <ul class="m-b-0 chat-list">
     <li class="clearfix">
@@ -16,10 +16,23 @@
 
     @foreach (var m in Model)
     {
-        <li class="clearfix">
+        if(m.Role == Role.User)
+        {
+            <li class="clearfix">
 
-            <div class="message other-message float-right"> @m.Message</div>
-        </li>
+                <div class="message my-message float-right"> @m.Content</div>
+            </li>
+        }
+
+        if(m.Role == Role.Bot)
+        {
+            <li class="clearfix">
+
+                <div class="message other-message float-left"> @m.Content</div>
+            </li>
+        }
+
+        
     }
 
 </ul>

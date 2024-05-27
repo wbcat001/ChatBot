@@ -7,44 +7,56 @@
       "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\controllers\\chatreplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:controllers\\chatreplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\views\\partial\\chathistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:views\\partial\\chathistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\models\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:models\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\wwwroot\\css\\chat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:wwwroot\\css\\chat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\wwwroot\\css\\chat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:wwwroot\\css\\chat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\views\\partial\\chathistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:views\\partial\\chathistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\models\\apikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:models\\apikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|c:\\users\\acero\\work_program\\chatbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A300D00-D422-4B7A-B41A-AFC4D7D96E45}|ChatBot.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,7 +65,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 194,
+          "DockedWidth": 205,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -62,46 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAxwBgAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T09:30:46.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\Models\\Message.cs",
-              "RelativeDocumentMoniker": "Models\\Message.cs",
-              "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\Models\\Message.cs",
-              "RelativeToolTip": "Models\\Message.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:45:35.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAuwGEAAAAhAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-21T15:11:24.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -114,20 +100,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAABEwCQAAAAaAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-21T15:14:29.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -140,34 +126,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "chat.css",
               "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\wwwroot\\css\\chat.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\chat.css",
               "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\wwwroot\\css\\chat.css",
               "RelativeToolTip": "wwwroot\\css\\chat.css",
-              "ViewState": "AQIAADEAAAAAAAAAAABEwEgAAAAFAAAA",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAALEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-21T15:12:40.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:30:46.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:45:35.417Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 189,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-25T10:14:12.901Z",
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\Models\\Prompt.cs",
+              "RelativeDocumentMoniker": "Models\\Prompt.cs",
+              "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\Models\\Prompt.cs",
+              "RelativeToolTip": "Models\\Prompt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:35:13.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:19:43.366Z",
               "EditorCaption": ""
             },
             {
@@ -178,7 +203,7 @@
               "RelativeDocumentMoniker": "Controllers\\ChatReplyController.cs",
               "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\Controllers\\ChatReplyController.cs",
               "RelativeToolTip": "Controllers\\ChatReplyController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T09:23:40.632Z",
               "EditorCaption": ""
@@ -191,22 +216,48 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAxwDUAAAAAAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAF4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T08:43:20.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ChatHistory.cshtml",
               "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\Views\\partial\\ChatHistory.cshtml",
               "RelativeDocumentMoniker": "Views\\partial\\ChatHistory.cshtml",
               "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\Views\\partial\\ChatHistory.cshtml",
               "RelativeToolTip": "Views\\partial\\ChatHistory.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-25T09:14:39.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiKey.cs",
+              "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\Models\\ApiKey.cs",
+              "RelativeDocumentMoniker": "Models\\ApiKey.cs",
+              "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\Models\\ApiKey.cs",
+              "RelativeToolTip": "Models\\ApiKey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:16:40.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acero\\Work_Program\\ChatBot\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\acero\\Work_Program\\ChatBot\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T10:14:12.901Z",
               "EditorCaption": ""
             }
           ]

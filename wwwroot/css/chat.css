@@ -76,7 +76,7 @@
         color: #999;
         font-size: 13px
     }
-.chat-history .chat-list{
+.chat-history {
     overflow-x: hidden;
     overflow-y: scroll;
 /*    -webkit-overflow-scrolling: touch;*/
@@ -96,7 +96,7 @@
         float: left;
         padding-left: 10px
     }
-.chat .chat-history .chat-list {
+.chat .chat-history  {
     height: 500px;
 }
 .chat .chat-history {
@@ -175,7 +175,7 @@
 
     .chat .chat-history .other-message {
         background: #e8f1f3;
-        text-align: right
+        text-align: left
     }
 
         .chat .chat-history .other-message:after {
